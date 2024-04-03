@@ -65,11 +65,11 @@ plt.show()
 ```
 ## Output:
 ![1ML](https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393935/93e3493b-39f3-4237-95e7-53f833e81559)
-##### Accuracy value
+### Accuracy value
 ![2ML](https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393935/ea089a73-ae64-4a54-a8e8-f2e2a47f054d)
-##### Predicted value
+### Predicted value
 ![3ML](https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393935/db5c6812-394a-4a2e-b034-bea635ea152a)
-#### Result tree
+### Result tree
 ![4ML](https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393935/df9702e0-e420-4d91-98bb-eee0acb708c6)
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
